@@ -173,7 +173,7 @@
     "ringrtc": "https://github.com/signalapp/signal-ringrtc-node.git#6c3a7f12dfdca4d8cc16ba76051231271d30a4c7",
     "rotating-file-stream": "2.1.5",
     "sanitize.css": "11.0.0",
-    "semver": "5.4.1",
+    "semver": "5.7.2",
     "sharp": "0.30.5",
     "split2": "4.0.0",
     "testcheck": "1.0.0-rc.2",
